@@ -1,10 +1,5 @@
-update=9/24/2014 12:04:14
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+update=10/3/2014 19:07:18
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -24,25 +19,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.150000000000
 ModuleOutlineThickness=0.150000000000
-[pcbnew/libraries]
-LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=smd_capacitors
-LibName7=smd_resistors
-LibName8=smd_crystal&oscillator
-LibName9=smd_dil
-LibName10=smd_transistors
-LibName11=libcms
-LibName12=display
-LibName13=led
-LibName14=dip_sockets
-LibName15=pga_sockets
-LibName16=valves
-LibName17=D:/projects/kiCad/Library/cdu
 [eeschema]
 version=1
 LibDir=
@@ -82,3 +58,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[cvpcb]
+version=1
+NetIExt=net
