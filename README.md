@@ -10,9 +10,13 @@ Now KiCad default build has no footprint libraries attached but the libraries we
 https://www.github.com/KiCad
 you MUST do this step so KiCad can read the libraries from github directly:
 copy this file
+
    d:\kicad-winbuilder-3.4\kicad\share\template\fp-lib-table.for-github
+   
 to this place, ( remove ".for-github" from the file name )
+
    %userprofile%\appdata\roaming\kicad\fp-lib-table
+   
 This will tell KiCad-CvPCB to read the footprint (modules) from github.
    
    
